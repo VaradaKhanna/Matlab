@@ -1,0 +1,7 @@
+Q. Execute the following:
+
+a. Simulate the signal having frequencies 10Hz, 30Hz and 50Hz. 
+b. Design suitable FIR filter to select only 30Hz component (Use Hamming 
+   window).
+c. Filter the signal using the designed filter, and 
+d. Plot the spectrum of the input and the filtered signal. 
